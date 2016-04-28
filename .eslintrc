@@ -1,0 +1,16 @@
+{
+  "env": {
+    "node": true,
+    "es6": true
+  },
+  "globals": {
+    "it": true,
+    "describe": true,
+    "beforeEach": true,
+    "afterEach": true
+  },
+  "rules": {
+    "no-dupe-class-members": 2
+  },
+  "extends": "eslint:recommended"
+}
